@@ -4,19 +4,17 @@
 ![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ![author](https://img.shields.io/badge/author-hcxc-orange.svg)
 
-
-
-[Click me to Download the aar file](./output/VerticalTabLayout.aar)
-
 ## About
 
 Vertical Tab Layout for Android
 
 [README of Chinese](./vertical_tab_layout_CN.md)
 
-## Demo
+## Download
 
 [Demo](screenshot/vertical-tab-layout.mp4)
+
+[Click me to download the aar file](./output/VerticalTabLayout.aar)
 
 ## Documentation
 ---

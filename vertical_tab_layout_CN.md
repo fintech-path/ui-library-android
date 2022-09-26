@@ -5,17 +5,15 @@
 ![version](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-1.0.0-brightgreen.svg)
 ![author](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-hcxc-orange.svg)
 
-
-
 ## 项目介绍
 
 安卓垂直标签布局
 
-## Demo
+## 下载
 
 [Demo](screenshot/vertical-tab-layout.mp4)
 
-## Documentation
+[aar 文件](./output/VerticalTabLayout.aar)
 
 ### 如何使用
 
