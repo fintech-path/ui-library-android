@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BaseObfuscateEditLayout">
+        <attr name="title" format="string" />
+        <attr name="defaultObfuscateStatus" format="boolean" />
+        <attr name="leftIcon" format="reference" />
+        <attr name="inputLength" format="integer" />
+
+        <attr name="clearIcon" format="reference" />
+        <attr name="obfuscateIcon" format="reference" />
+
+    </declare-styleable>
+
+
+
+</resources>

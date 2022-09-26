@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalTabLayout">
+        <attr name="vTabIndicatorColor" format="color" />
+        <attr name="vTabIndicatorWidth" format="dimension" />
+        <attr name="vTabIndicatorCorners" format="dimension" />
+        <attr name="vTabIndicatorGravity" format="enum">
+            <enum name="left" value="3" />
+            <enum name="right" value="5" />
+            <enum name="fill" value="119" />
+        </attr>
+        <attr name="vDividerHeight" format="dimension" />
+        <attr name="vDividerPadding" format="dimension" />
+        <attr name="vDividerColor" format="color" />
+        <attr name="vTabArrowColor" format="color" />
+        <attr name="vTabArrowGravity" format="enum">
+            <enum name="left" value="3" />
+            <enum name="right" value="5" />
+        </attr>
+        <attr name="vTabArrowType" format="enum">
+            <enum name="inner" value="1" />
+            <enum name="outer" value="2" />
+        </attr>
+        <attr name="vTabHeight" format="dimension" />
+        <attr name="vTabTextColor" format="color" />
+        <attr name="vTabSelectedTextColor" format="color" />
+        <attr name="vTabTextAppearance" format="reference" />
+        <attr name="vTabTextSize" format="dimension" />s
+        <attr name="vTabPadding" format="dimension" />
+        <attr name="vTabPaddingLeft" format="dimension" />
+        <attr name="vTabPaddingRight" format="dimension" />
+        <attr name="vTabPaddingTop" format="dimension" />
+        <attr name="vTabPaddingBottom" format="dimension" />
+        <attr name="vTabIconPadding" format="dimension" />
+        <attr name="vTabViewGravity" format="enum">
+            <enum name="left" value="3" />
+            <enum name="right" value="5" />
+            <enum name="center" value="17" />
+            <enum name="center_vertical" value="16" />
+            <enum name="center_horizontal" value="1" />
+            <enum name="bottom" value="80" />
+            <enum name="top" value="48" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="vTabItem">
+        <attr name="text" format="string" />
+        <attr name="vIconGravity" format="enum">
+            <enum name="left" value="3" />
+            <enum name="right" value="5" />
+            <enum name="bottom" value="80" />
+            <enum name="top" value="48" />
+        </attr>
+        <attr name="icon" format="reference" />
+        <attr name="iconWidth" format="dimension" />
+        <attr name="iconHeight" format="dimension" />
+    </declare-styleable>
+</resources>

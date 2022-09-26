@@ -1,0 +1,26 @@
+<resources>
+
+    <!--TEXT SIZES-->
+    <dimen name="txt_xxxs">8dp</dimen>
+    <dimen name="txt_9">9dp</dimen>
+    <dimen name="txt_xxs">10dp</dimen>
+    <dimen name="txt_xxs_l">11dp</dimen>
+    <dimen name="txt_xs">12dp</dimen>
+    <dimen name="txt_xs_l">13dp</dimen>
+    <dimen name="txt_xs_xl">14dp</dimen>
+    <dimen name="txt_s">15dp</dimen>
+    <dimen name="txt_s_l">16dp</dimen>
+    <dimen name="txt_m">17dp</dimen>
+    <dimen name="txt_xm">18dp</dimen>
+    <dimen name="txt_ml">21dp</dimen>
+    <dimen name="txt_mml">24dp</dimen>
+    <dimen name="txt_l">25dp</dimen>
+    <dimen name="txt_xl">30dp</dimen>
+    <dimen name="txt_xxl">35dp</dimen>
+    <dimen name="txt_3xl">35dp</dimen>
+    <dimen name="txt_4xl">40dp</dimen>
+    <dimen name="txt_5xl">45dp</dimen>
+    <dimen name="txt_6xl">48dp</dimen>
+    <dimen name="txt_19">19dp</dimen>
+
+</resources>
