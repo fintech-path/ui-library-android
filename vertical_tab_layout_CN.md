@@ -9,6 +9,8 @@
 
 安卓垂直标签布局
 
+[English](./vertical_tab_layout.md)
+
 ## 下载
 
 [Demo](screenshot/vertical-tab-layout.mp4)

@@ -8,7 +8,7 @@
 
 Vertical Tab Layout for Android
 
-[README of Chinese](./vertical_tab_layout_CN.md)
+[中文](./vertical_tab_layout_CN.md)
 
 ## Download
 

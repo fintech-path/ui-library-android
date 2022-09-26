@@ -7,6 +7,8 @@
 
 这是一个可以让你显示不同格式掩码的小工具。可以通过设置开始位置、结束位置以及掩码字符来自定义不同的掩码模板。效果可以下图。
 
+[English](./obfuscated_text_view.md)
+
 ## 效果图
 
 <img width="150"  src="screenshot/ScreenShot_ObfuscatedTextView.png"/>
@@ -18,6 +20,8 @@
 #### [点我下载aar文件](./output/ObfuscatedEditText.aar)
 
 ## 版本说明
+
+--
 
 ## 技术文档
 

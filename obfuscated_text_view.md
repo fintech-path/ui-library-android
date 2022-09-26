@@ -9,6 +9,8 @@
 
 This a View that can be switched between plain text and obfuscated text.Different display templates can be customized according to different display content formats.You can set the start position, end position and mask character by yourself.
 
+[中文](./obfuscated_text_view_CN.md)
+
 ## Effect Picture
 
 <img width="150"  src="screenshot/ScreenShot_ObfuscatedTextView.png"/>
