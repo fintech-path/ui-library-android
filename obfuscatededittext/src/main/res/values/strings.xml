@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">ObfuscatedEditText</string>
-
     <string name="phone_format_error_tip">phone format error</string>
     <string name="idcard_format_error_tip">idcard format error</string>
     <string name="bank_card_format_error_tip">bank card format error</string>
