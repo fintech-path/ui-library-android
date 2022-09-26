@@ -16,3 +16,5 @@ rootProject.name = "AndroidUILibrary"
 include ':app'
 include ':obfuscatededittext'
 include ':VerticalTabLayout'
+include ':common'
+include ':library'
