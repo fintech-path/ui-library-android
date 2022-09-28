@@ -15,9 +15,9 @@
 
 ## 下载 demo
 
-#### [点我下载](./output/demo.apk)
+#### [Demo](screenshot/obfuscated-edittext.mp4)
 
-#### [点我下载aar文件](./output/ObfuscatedEditText.aar)
+#### [点我下载aar文件](./output/ui-library.aar)
 
 ## 版本说明
 

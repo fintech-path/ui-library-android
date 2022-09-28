@@ -15,7 +15,7 @@
 
 [Demo](screenshot/vertical-tab-layout.mp4)
 
-[aar 文件](./output/VerticalTabLayout.aar)
+[aar 文件](./output/ui-library.aar)
 
 ### 如何使用
 

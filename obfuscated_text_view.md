@@ -17,9 +17,9 @@ This a View that can be switched between plain text and obfuscated text.Differen
 
 ## Download the demo
 
-#### [Click me to Download the demo](./output/demo.apk)
+#### [Demo](screenshot/obfuscated-edittext.mp4)
 
-#### [Click me to Download the aar file](./output/ObfuscatedEditText.aar)
+#### [Click me to Download the aar file](./output/ui-library.aar)
 
 ## Release notes
 

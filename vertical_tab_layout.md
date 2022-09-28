@@ -14,7 +14,7 @@ Vertical Tab Layout for Android
 
 [Demo](screenshot/vertical-tab-layout.mp4)
 
-[Click me to download the aar file](./output/VerticalTabLayout.aar)
+[Click me to download the aar file](./output/ui-library.aar)
 
 ## Documentation
 ---
